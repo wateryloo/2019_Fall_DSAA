@@ -15,4 +15,6 @@ You can read, modify, use and redistribute the code I upload, but you have to fo
 
 To be noticed, your behavior should **NOT** violate anything mentioned in thie file, **Regulations on Academic Misconduct in Assignments for Undergraduate Students in the SUSTech Department of Computer Science and Engineering.pdf**.
 
+It is possible that I use some code from other sources. I will try my best to make credits. If you find something that I accidentally missed, please do **contact me** here or through email. I will be very willing to make corrections.
+
 If you are someone concerned and you think that this repo is inappropriate, please do **contact me** here or through email. I will be very willing to make corrections.
