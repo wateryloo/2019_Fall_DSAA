@@ -18,3 +18,5 @@ To be noticed, your behavior should **NOT** violate anything mentioned in thie f
 It is possible that I use some code from other sources. I will try my best to make credits. If you find something that I accidentally missed, please do **contact me** here or through email. I will be very willing to make corrections.
 
 If you are someone concerned and you think that this repo is inappropriate, please do **contact me** here or through email. I will be very willing to make corrections.
+
+From the third lab, also known as Lab2, which is to be uploaded in a few days, I will also upload some notes regarding each questions to include some mistakes you tend to make and the strategies used.
