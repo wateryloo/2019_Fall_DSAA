@@ -8,6 +8,7 @@ This is my repo for lab in DSAA course in 2019 fall semester in SUSTech. If you 
 - You have to make credits when you use or redistribute my code.
 - If you are a participant of DSAA in SUSTech, only when you spend a long time thinking independently the solutions are you encouraged to refer to this repo.
 - If you are a participant of DSAA in SUSTech and you are coding for some questions, you have to close my code before you start to program.
+- If you are a student in SUSTech, you are not allowed to do what is not allowed in SUSTech and in Department of CSE in SUSTech.
 - It is possible that I use some code or refer to some contents from other sources, which may include geeksforgeeks, stackoverflow, CLRS, Algorithms, slides from the internet, etc.
 - I am not responsible for any kind of redistributions of this repo and further influences.
-- You can contact me if you find anything inappropriate.
+- You can contact me if you find anything inappropriate or you want further communications.
