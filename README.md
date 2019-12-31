@@ -12,4 +12,5 @@ This is my repo for lab in DSAA course in 2019 fall semester in SUSTech. If you 
 - If you are a student in SUSTech, you are not allowed to do what is not allowed in SUSTech and in Department of CSE in SUSTech.
 - It is possible that I use some code or refer to some contents from other sources, which may include geeksforgeeks, stackoverflow, CLRS, Algorithms, slides from the internet, etc.
 - I am not responsible for any kind of redistributions of this repo and further influences.
+- I can update, close or delete this repo at any time, which should have effect on you if you use or redistribute this repo.
 - You can contact me if you find anything inappropriate or you want further communications.
