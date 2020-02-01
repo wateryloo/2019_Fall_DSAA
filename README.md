@@ -16,3 +16,4 @@ This is my repo for lab in DSAA course in 2019 fall semester in SUSTech. If you 
 - I can update, close or delete this repo at any time, which should have effect on you if you use or redistribute this repo.
 - Others are not allowed to do things not allowed here for you.
 - You can contact me if you find anything inappropriate or you want further communications.
+- It is unlikely for this repo to be further updated.
