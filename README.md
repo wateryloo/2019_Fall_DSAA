@@ -1,4 +1,7 @@
 # 2019_Fall_DSAA
+**[WARNING] You are NOT ALLOWED to use this code by any means for plagiarism in SUSTech or any other schools or institutions.**
+**There has been someone who failed this course because of plagiarism, so this [WARNING] is SERIOUS!!!**
+
 This is my repo for lab in DSAA course in 2019 fall semester in SUSTech. If you want to use it, here are a few things you must know.
 
 - There is **no warranty** for my code.
